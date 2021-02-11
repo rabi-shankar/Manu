@@ -10,6 +10,7 @@ import com.rabi.manu.R
 import com.rabi.manu.utils.hideStatusBar
 import kotlinx.android.synthetic.main.activity_lock.*
 
+
 class LockActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
